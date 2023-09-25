@@ -2,7 +2,7 @@
 
 I'm Muhammad Arsalan, a seasoned Full Stack Developer with over 9 years of hands-on experience in the world of software engineering. My journey began with a deep-rooted passion for programming, and along the way, I've had the privilege to collaborate with numerous startups in the United States, Canada, and Germany, helping them turn their ideas into successful digital realities.
 
-Currently, I'm at the forefront of [Behavioral Health Link] (https://behavioralhealthlink.com/) as the Senior Software Engineer, The BHL Platform serves as a vital bridge connecting various behavioral health resources, yielding shorter response times, reduced emergency room admissions, and diminished reliance on law enforcement. This integrated approach guarantees a streamlined and highly effective response to crisis situations
+Currently, I'm at the forefront of [Behavioral Health Link](https://behavioralhealthlink.com/) as the Senior Software Engineer, The BHL Platform serves as a vital bridge connecting various behavioral health resources, yielding shorter response times, reduced emergency room admissions, and diminished reliance on law enforcement. This integrated approach guarantees a streamlined and highly effective response to crisis situations
 Here, I play a pivotal role in shaping the technological landscape to deliver top-notch services.
 
 💬 Feel free to reach out to me for insights and discussions on a wide range of topics, including:
