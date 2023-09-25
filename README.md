@@ -7,21 +7,7 @@ Here, I play a pivotal role in shaping the technological landscape to deliver to
 
 💬 Feel free to reach out to me for insights and discussions on a wide range of topics, including:
 
-.NET Core,
-Angular,
-JavaScript / TypeScript,
-Redux,
-Node.js,
-Express.js,
-MongoDB,
-SQL Server,
-MySQL,
-Postgres,
-Docker,
-Microservices,
-RabbitMq,
-Docker,
-Kubernetes
+.NET Core, Angular, JavaScript / TypeScript, Redux, Node.js, Express.js, MongoDB, SQL Server, MySQL, Postgres, Docker, Microservices, RabbitMq, Docker, Kubernetes.
 
 📫 Connect with me on LinkedIn or reach out via email. [LinkedIn](https://www.linkedin.com/in/muhammadarsalan0312/), [Email](mailTo:programmerarsalaniu@gmail.com).
 
@@ -36,4 +22,4 @@ Kubernetes
 
 - [Legacy Sysco Guest Supply Portal](https://www.sgs-vendorcompliance.com/) - full-service provider of personal care amenity programs and room accessories to the lodging industry built using Azure, .net winforms and SQL server
 
-- [Gocardless](https://woocommerce.com/document/gocardless/) [Swagger Api] (https://api.simplycollect.co.uk/swagger/index.html) GoCardless is a fintech company that specializes in bank payments including recurring payments, Direct Debit processing and Open Banking. I have developed backend API using .NET CORE 3.
+- [Gocardless](https://woocommerce.com/document/gocardless/) [Swagger Api](https://api.simplycollect.co.uk/swagger/index.html) GoCardless is a fintech company that specializes in bank payments including recurring payments, Direct Debit processing and Open Banking. I have developed backend API using .NET CORE 3.
